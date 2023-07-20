@@ -1,0 +1,5 @@
+homepage: "https://www.nottinghamcollege.ac.uk"
+documentation: "https://github.com/nottinghamcollege/chatbot-widget-gtm-template/blob/main/README.md"
+versions:
+  - sha: 067b8c6eab0ea4b74bc1d7c92d61a626b6dfd67e
+    changeNotes: Initial release.
